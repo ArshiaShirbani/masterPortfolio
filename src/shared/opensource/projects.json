@@ -1,1 +1,88 @@
-{"data":[{"id":"R_kgDONHHXkQ","name":"lola","createdAt":"2024-10-28T17:45:09Z","url":"https://github.com/ArshiaShirbani/lola","description":"Statistical analysis and Build sorter for Lolalytics (replacement for jayensee's Lolalytics Extrap Override)","isFork":false,"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"C#","iconifyClass":"logos-c-sharp"},{"name":"Python","iconifyClass":"logos-python"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDONK-vfA","name":"ArshiaShirbani.github.io","createdAt":"2024-11-05T20:33:17Z","url":"https://github.com/ArshiaShirbani/ArshiaShirbani.github.io","description":"This repository is allocated to my personal portfolio hosted on Github Pages","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDOMoUypQ","name":"mafia-madness","createdAt":"2024-08-26T06:49:36Z","url":"https://github.com/ArshiaShirbani/mafia-madness","description":"A dynamic online version of the classic party game Mafia, built with Java and React, featuring a PostgreSQL database for real-time game state management. This project focuses on full-stack development, interactive UI design, and scalable back-end architecture.","isFork":false,"languages":[{"name":"Java","iconifyClass":"logos-java"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]}]}
+{
+  "data": [
+    {
+      "id": "R_kgDONHHXkQ",
+      "name": "lola",
+      "createdAt": "2024-10-28T17:45:09Z",
+      "url": "https://github.com/ArshiaShirbani/lola",
+      "description": "Statistical analysis and Build sorter for Lolalytics (replacement for jayensee's Lolalytics Extrap Override)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONK-vfA",
+      "name": "ArshiaShirbani.github.io",
+      "createdAt": "2024-11-05T20:33:17Z",
+      "url": "https://github.com/ArshiaShirbani/ArshiaShirbani.github.io",
+      "description": "This repository is allocated to my personal portfolio hosted on Github Pages",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMoUypQ",
+      "name": "mafia-madness",
+      "createdAt": "2024-08-26T06:49:36Z",
+      "url": "https://github.com/ArshiaShirbani/mafia-madness",
+      "description": "A dynamic online version of the classic party game Mafia, built with Java and React, featuring a PostgreSQL database for real-time game state management. This project focuses on full-stack development, interactive UI design, and scalable back-end architecture.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONO_CUQ",
+      "name": "Music-EraVision",
+      "createdAt": "2024-11-13T21:33:02Z",
+      "url": "https://github.com/ArshiaShirbani/Music-EraVision",
+      "description": "A deep learning-powered tool for classifying sheet music into Baroque, Classical, and Romantic style periods. Built using ResNet152. A custom data pipeline automates metadata removal and format conversion, utilizing Playwright. The tech stack includes Python, PyTorch, and Playwright.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}

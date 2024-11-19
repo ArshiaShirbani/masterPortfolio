@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Arshia Shirbani Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://arshiashirbani.github.io",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Hi! I'm Arshia Shirbani, a recent Computer Engineering grad from the University of Toronto with a passion for tech and a drive to learn. Take a look around to see how my experience and creativity can add value to your team!",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/13JnW_7JwMFmG9c8eVrIZhXWg71201jCX/view?usp=drive_link",
   portfolio_repository: "https://github.com/arshiashirbani/masterPortfolio",
   githubProfile: "https://github.com/ArshiaShirbani",
 };
@@ -35,7 +35,6 @@ const socialMediaLinks = [
   // github: "https://github.com/ArshiaShirbani",
   // linkedin: "https://www.linkedin.com/in/arshia-shirbani-730a68314/",
   // gmail: "arshia.shirbani@mail.utoronto.ca",
-
 
   {
     name: "Github",
@@ -224,7 +223,7 @@ const skills = {
         },
       ],
     },
-   // {
+    // {
     //  title: "UI/UX Design",
     //  fileName: "DesignImg",
     //  skills: [
@@ -277,7 +276,7 @@ const competitiveSites = {
       },
       profileLink: "https://leetcode.com/layman_brother/",
     },
-    
+
     // {
     //   siteName: "HackerRank",
     //   iconifyClassname: "simple-icons:hackerrank",
@@ -310,7 +309,7 @@ const competitiveSites = {
     //   },
     //   profileLink: "https://www.hackerearth.com/@ashutosh391",
     // },
-    
+
     {
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
@@ -498,7 +497,8 @@ const experience = {
           logo_path: "bluecat.jpg",
           duration: "June 2023 - Present",
           location: "Toronto, ON - Remote",
-          description: "At BlueCat Networks, I optimized cloud infrastructure and enhanced data management systems, building alerting and automation solutions that significantly boosted operational efficiency. Here, I learned a ton about cloud development and its associated technologies such as Docker and Kubernetes.",
+          description:
+            "At BlueCat Networks, I optimized cloud infrastructure and enhanced data management systems, building alerting and automation solutions that significantly boosted operational efficiency. Here, I learned a ton about cloud development and its associated technologies such as Docker and Kubernetes.",
           color: "#000000",
         },
         // {
@@ -665,16 +665,14 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-
-  ],
+  data: [],
 };
 
 // Contact Page
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated3.png",
     description:
       "Here are the ways you can reach out! Let me know if I can add value to your team or if you have any questions about my work.",
   },
