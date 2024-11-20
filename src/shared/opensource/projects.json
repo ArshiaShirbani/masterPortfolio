@@ -41,6 +41,10 @@
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
